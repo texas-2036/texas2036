@@ -1,0 +1,25 @@
+Package: texas2036
+Title: Tools for the Texas 2036 Data Science Team
+Version: 0.0.0.9000
+Authors@R: 
+    c(person(given = "Matt",
+             family = "Worthington",
+             role = c("aut", "cre"),
+             email = "worthington.matthew@gmail.com"),
+      person(family = "Texas 2036",
+             role = "cph"))
+Description: A set of tools for the Texas 2036 Data Science team. This package contains functions for R markdown templates, ggplot2 themes, and data connections more.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Language: en
+LazyData: true
+RoxygenNote: 7.0.2
+Imports: 
+    ggplot2,
+    ggtext (>= 0.1.0),
+    extrafont,
+    rmarkdown
+Remotes: 
+    wilkelab/ggtext
+Suggests: 
+    testthat (>= 2.1.0)
