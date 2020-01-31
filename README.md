@@ -18,5 +18,4 @@ Themes:
 To install the development version of this package, use the following
 code:
 
-    ## Skipping install of 'texas2036' from a github remote, the SHA1 (dbf84c1f) has not changed since last install.
-    ##   Use `force = TRUE` to force installation
+    devtools::install_github("texas-2036/texas2036")

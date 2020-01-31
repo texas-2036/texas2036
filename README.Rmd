@@ -22,7 +22,7 @@ Themes:
 
 To install the development version of this package, use the following code:
 
-```{r install-ex, results='asis', echo = FALSE, cache=FALSE}
+```
 devtools::install_github("texas-2036/texas2036")
 ```
 
