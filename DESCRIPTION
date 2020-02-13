@@ -18,7 +18,10 @@ Imports:
     ggplot2,
     ggtext (>= 0.1.0),
     extrafont,
-    rmarkdown
+    rmarkdown,
+    magrittr,
+    janitor,
+    readr
 Remotes: 
     wilkelab/ggtext
 Suggests: 
