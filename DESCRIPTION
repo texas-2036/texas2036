@@ -21,7 +21,8 @@ Imports:
     rmarkdown,
     magrittr,
     janitor,
-    readr
+    readr,
+    readxl
 Remotes: 
     wilkelab/ggtext
 Suggests: 

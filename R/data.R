@@ -9,3 +9,8 @@
 #'
 #' @format A data frame:
 "water_projections"
+
+#' `inflation_data` is a `tibble` that contains inflation multpliers data from the Bureau of Labor Statistics.  For convenience, a column named `index` has been added for adjustin to inflation for financial figures in 2020.
+#'
+#' @format A data frame:
+"inflation_data"
