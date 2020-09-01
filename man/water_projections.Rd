@@ -5,7 +5,9 @@
 \alias{water_projections}
 \title{`water_projections` is a `tibble` that contains data from the Texas
 Water Development Board.}
-\format{A data frame:}
+\format{
+A data frame:
+}
 \usage{
 water_projections
 }

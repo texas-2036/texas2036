@@ -3,12 +3,14 @@
 \docType{data}
 \name{inflation_data}
 \alias{inflation_data}
-\title{`inflation_data` is a `tibble` that contains inflation multpliers data from the Bureau of Labor Statistics.  For convenience, a column named `index` has been added for adjustin to inflation for financial figures in 2020.}
-\format{A data frame:}
+\title{`inflation_data` is a `tibble` that contains inflation multpliers data from the Bureau of Labor Statistics.  For convenience, a column named `index` has been added for adjusting to inflation for financial figures in 2020.}
+\format{
+A data frame:
+}
 \usage{
 inflation_data
 }
 \description{
-`inflation_data` is a `tibble` that contains inflation multpliers data from the Bureau of Labor Statistics.  For convenience, a column named `index` has been added for adjustin to inflation for financial figures in 2020.
+`inflation_data` is a `tibble` that contains inflation multpliers data from the Bureau of Labor Statistics.  For convenience, a column named `index` has been added for adjusting to inflation for financial figures in 2020.
 }
 \keyword{datasets}
